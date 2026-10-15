@@ -1,0 +1,35 @@
+[
+    {
+        "ID": "233n1a05b2",
+        "Name": "poola lavanya",
+        "DOB": "18-10-2005",
+        "Gender": "Female",
+        "Email": "lavs@gmail.com",
+        "Phone": "9978654321",
+        "Course": "cse",
+        "Year": "1st Year",
+        "Address": "atp"
+    },
+    {
+        "ID": "233n1a05c9",
+        "Name": "chaithu",
+        "DOB": "23-5-2006",
+        "Gender": "Female",
+        "Email": "chaithu@gmail.com",
+        "Phone": "9976543223",
+        "Course": "ece",
+        "Year": "2nd Year",
+        "Address": "atp"
+    },
+    {
+        "ID": "233n1a06b3",
+        "Name": "manju",
+        "DOB": "3-4-2008",
+        "Gender": "Male",
+        "Email": "manju@gmail.com",
+        "Phone": "8967543876",
+        "Course": "cse",
+        "Year": "3rd Year",
+        "Address": "atp"
+    }
+]
